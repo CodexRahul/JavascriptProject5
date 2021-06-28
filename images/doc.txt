@@ -1,0 +1,4 @@
+<script src="https://kit.fontawesome.com/a992d6b247.js" crossorigin="anonymous"></script>
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+font-family: 'Bebas Neue', cursive; 
